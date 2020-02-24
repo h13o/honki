@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/honki/static/css/main.8da70447.chunk.css",
-    "main.js": "/honki/static/js/main.843ead99.chunk.js",
-    "main.js.map": "/honki/static/js/main.843ead99.chunk.js.map",
+    "main.js": "/honki/static/js/main.264dfabd.chunk.js",
+    "main.js.map": "/honki/static/js/main.264dfabd.chunk.js.map",
     "runtime-main.js": "/honki/static/js/runtime-main.c333192c.js",
     "runtime-main.js.map": "/honki/static/js/runtime-main.c333192c.js.map",
-    "static/js/2.5e2a3e15.chunk.js": "/honki/static/js/2.5e2a3e15.chunk.js",
-    "static/js/2.5e2a3e15.chunk.js.map": "/honki/static/js/2.5e2a3e15.chunk.js.map",
+    "static/js/2.0d0508d6.chunk.js": "/honki/static/js/2.0d0508d6.chunk.js",
+    "static/js/2.0d0508d6.chunk.js.map": "/honki/static/js/2.0d0508d6.chunk.js.map",
     "index.html": "/honki/index.html",
-    "precache-manifest.6af8d1709e7f919ee528ff52e274a18a.js": "/honki/precache-manifest.6af8d1709e7f919ee528ff52e274a18a.js",
+    "precache-manifest.cf08aad749b83f7075eabbce04ef0fa4.js": "/honki/precache-manifest.cf08aad749b83f7075eabbce04ef0fa4.js",
     "service-worker.js": "/honki/service-worker.js",
     "static/css/main.8da70447.chunk.css.map": "/honki/static/css/main.8da70447.chunk.css.map",
-    "static/js/2.5e2a3e15.chunk.js.LICENSE.txt": "/honki/static/js/2.5e2a3e15.chunk.js.LICENSE.txt",
+    "static/js/2.0d0508d6.chunk.js.LICENSE.txt": "/honki/static/js/2.0d0508d6.chunk.js.LICENSE.txt",
     "static/media/EndMelody.mp3": "/honki/static/media/EndMelody.cc90fca3.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.c333192c.js",
-    "static/js/2.5e2a3e15.chunk.js",
+    "static/js/2.0d0508d6.chunk.js",
     "static/css/main.8da70447.chunk.css",
-    "static/js/main.843ead99.chunk.js"
+    "static/js/main.264dfabd.chunk.js"
   ]
 }
