@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/honki/static/css/main.8bc13d88.chunk.css",
+    "main.css": "/honki/static/css/main.dfb00157.chunk.css",
     "main.js": "/honki/static/js/main.dc754dff.chunk.js",
     "main.js.map": "/honki/static/js/main.dc754dff.chunk.js.map",
     "runtime-main.js": "/honki/static/js/runtime-main.c333192c.js",
@@ -8,15 +8,15 @@
     "static/js/2.20f9136a.chunk.js": "/honki/static/js/2.20f9136a.chunk.js",
     "static/js/2.20f9136a.chunk.js.map": "/honki/static/js/2.20f9136a.chunk.js.map",
     "index.html": "/honki/index.html",
-    "precache-manifest.f116c7b5741a9e670a2ad3db4b331648.js": "/honki/precache-manifest.f116c7b5741a9e670a2ad3db4b331648.js",
+    "precache-manifest.eb65eda47401ab6b1b2c453c597c9e01.js": "/honki/precache-manifest.eb65eda47401ab6b1b2c453c597c9e01.js",
     "service-worker.js": "/honki/service-worker.js",
-    "static/css/main.8bc13d88.chunk.css.map": "/honki/static/css/main.8bc13d88.chunk.css.map",
+    "static/css/main.dfb00157.chunk.css.map": "/honki/static/css/main.dfb00157.chunk.css.map",
     "static/js/2.20f9136a.chunk.js.LICENSE.txt": "/honki/static/js/2.20f9136a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c333192c.js",
     "static/js/2.20f9136a.chunk.js",
-    "static/css/main.8bc13d88.chunk.css",
+    "static/css/main.dfb00157.chunk.css",
     "static/js/main.dc754dff.chunk.js"
   ]
 }
