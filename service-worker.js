@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/honki/precache-manifest.327922749f3096951080f11de456d6ca.js"
+  "/honki/precache-manifest.8ba8d4c181d459a1a3b62cffac224819.js"
 );
 
 self.addEventListener('message', (event) => {
