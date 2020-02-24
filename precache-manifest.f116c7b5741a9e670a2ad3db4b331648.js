@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d44cf88b01d0882e7e379353c6150c2a",
+    "revision": "e9c1ab4192ba8800751364acc3cb054d",
     "url": "/honki/index.html"
   },
   {
-    "revision": "4adf1211e28ae5a78801",
-    "url": "/honki/static/css/main.95eeffd1.chunk.css"
+    "revision": "fec5c6e3baa8da7c5428",
+    "url": "/honki/static/css/main.8bc13d88.chunk.css"
   },
   {
     "revision": "93436d60b0484380aa01",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/honki/static/js/2.20f9136a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4adf1211e28ae5a78801",
-    "url": "/honki/static/js/main.acc41822.chunk.js"
+    "revision": "fec5c6e3baa8da7c5428",
+    "url": "/honki/static/js/main.dc754dff.chunk.js"
   },
   {
     "revision": "bbc1d283bf99672a859e",
