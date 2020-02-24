@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/honki/static/css/main.7444242e.chunk.css",
-    "main.js": "/honki/static/js/main.74204d9d.chunk.js",
-    "main.js.map": "/honki/static/js/main.74204d9d.chunk.js.map",
+    "main.css": "/honki/static/css/main.8da70447.chunk.css",
+    "main.js": "/honki/static/js/main.843ead99.chunk.js",
+    "main.js.map": "/honki/static/js/main.843ead99.chunk.js.map",
     "runtime-main.js": "/honki/static/js/runtime-main.c333192c.js",
     "runtime-main.js.map": "/honki/static/js/runtime-main.c333192c.js.map",
     "static/js/2.5e2a3e15.chunk.js": "/honki/static/js/2.5e2a3e15.chunk.js",
     "static/js/2.5e2a3e15.chunk.js.map": "/honki/static/js/2.5e2a3e15.chunk.js.map",
     "index.html": "/honki/index.html",
-    "precache-manifest.28ae87fe48032dd27e871d3d08d52a03.js": "/honki/precache-manifest.28ae87fe48032dd27e871d3d08d52a03.js",
+    "precache-manifest.6af8d1709e7f919ee528ff52e274a18a.js": "/honki/precache-manifest.6af8d1709e7f919ee528ff52e274a18a.js",
     "service-worker.js": "/honki/service-worker.js",
-    "static/css/main.7444242e.chunk.css.map": "/honki/static/css/main.7444242e.chunk.css.map",
+    "static/css/main.8da70447.chunk.css.map": "/honki/static/css/main.8da70447.chunk.css.map",
     "static/js/2.5e2a3e15.chunk.js.LICENSE.txt": "/honki/static/js/2.5e2a3e15.chunk.js.LICENSE.txt",
     "static/media/EndMelody.mp3": "/honki/static/media/EndMelody.cc90fca3.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.c333192c.js",
     "static/js/2.5e2a3e15.chunk.js",
-    "static/css/main.7444242e.chunk.css",
-    "static/js/main.74204d9d.chunk.js"
+    "static/css/main.8da70447.chunk.css",
+    "static/js/main.843ead99.chunk.js"
   ]
 }
